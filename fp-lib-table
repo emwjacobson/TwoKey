@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TwoKey")(type "KiCad")(uri "C:/Users/Emerson/Documents/KiCad/Projects/KeyTester/TwoKey.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/keyswitches.pretty")(options "")(descr ""))
+)
